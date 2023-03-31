@@ -1,0 +1,7 @@
+description: 'This component takes the structured contact information and inserts
+  it into a Google Sheet. It uses Google API Python client to authenticate and interact
+  with Google Sheet. Inputs: List of dictionaries with structured contact information
+  from the DataCleaner component, and the Google Sheet ID. Outputs: GoogleSheetOutput(Google
+  Sheet URL).'
+name: GoogleSheetsWriter
+parameters: {}
