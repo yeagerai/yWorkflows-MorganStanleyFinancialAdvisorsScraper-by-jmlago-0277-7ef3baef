@@ -1,0 +1,5 @@
+description: This component scrapes the contact information of financial advisors
+  from the Morgan Stanley website. It uses BeautifulSoup and requests library to navigate,
+  find and extract the data.
+name: MorganStanleyScraper
+parameters: {}
