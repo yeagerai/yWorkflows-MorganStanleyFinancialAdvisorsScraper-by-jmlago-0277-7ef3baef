@@ -1,5 +1,7 @@
 description: This component takes the raw contact information dictionaries and cleans
   them to return structured data containing first name, last name, title, email, city,
   state, and phone number of each financial advisor.
+input-class: DataCleanerInputDict
 name: DataCleaner
+output-class: DataCleanerOutputDict
 parameters: {}
