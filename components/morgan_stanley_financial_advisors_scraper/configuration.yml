@@ -4,5 +4,7 @@ description: This component is a workflow designed to scrape financial advisor c
   website as input and retrieves a list of financial advisors with their contact information.
   It then processes the data and arranges it in a structured format before inserting
   it into a Google Sheet, whose URL is provided as output.
+input-class: ScraperInput
 name: MorganStanleyFinancialAdvisorsScraper
+output-class: GoogleSheetOutput
 parameters: {}
