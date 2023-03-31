@@ -1,0 +1,8 @@
+description: This component is a workflow designed to scrape financial advisor contact
+  information from the Morgan Stanley website and insert the structured data into
+  a Google Sheet. The workflow starts by taking the base URL of the Morgan Stanley
+  website as input and retrieves a list of financial advisors with their contact information.
+  It then processes the data and arranges it in a structured format before inserting
+  it into a Google Sheet, whose URL is provided as output.
+name: MorganStanleyFinancialAdvisorsScraper
+parameters: {}
